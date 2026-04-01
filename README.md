@@ -1,5 +1,5 @@
-# Projet 2 Prise de note rapide
-
+# Projet 2 - Prise de note rapide
+Projet sur l'écriture, la lecture et la création de fichier, stockage et logging de processus dans des fichier dédiés et dans plusieurs structures de données complexes.
 ## But
 Permet une prise de note efficace et organisé par cours. Garde en mémoire la liste de cours, des notes en lien avec ces cours et les notes d'examens avec de l'information en rapport à chacun d'entre eux.
 
