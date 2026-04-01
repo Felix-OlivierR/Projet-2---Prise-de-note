@@ -10,5 +10,5 @@ Permet une prise de note efficace et organisé par cours. Garde en mémoire la l
 Ne permet pas la modification directe des notes de cours. Permet simplement la lecture et ajout rapide de notes de cours ou dates d'examens.
 
 ## Crédits
-Félix-Olivier Rioux - Auteur du code
-Philippe Gauthier - Sensei *chépa qui va lire ça autre mais c'est toi le prof le plus cool :)*
+- Félix-Olivier Rioux - Auteur du code
+- Philippe Gauthier - Sensei *chépa qui va lire ça autre mais c'est toi le prof le plus cool :)*
