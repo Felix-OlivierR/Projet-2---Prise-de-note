@@ -1,5 +1,9 @@
 # Projet 2 - Prise de note rapide
 Projet sur l'écriture, la lecture et la création de fichier, stockage et logging de processus dans des fichier dédiés et dans plusieurs structures de données complexes.
+## Instructions
+- Télécharger le ficher zip
+- Extraire
+- Ouvrir et ce servir uniqement du fichier nommé: "CE FICHIER - Projet 2 Félix-Olivier_Rioux"
 ## But
 Permet une prise de note efficace et organisé par cours. Garde en mémoire la liste de cours, des notes en lien avec ces cours et les notes d'examens avec de l'information en rapport à chacun d'entre eux.
 #### Entrées
