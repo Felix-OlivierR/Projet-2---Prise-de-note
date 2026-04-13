@@ -1,7 +1,7 @@
 # Projet 2 - Prise de note rapide
 Projet sur l'écriture, la lecture et la création de fichier, stockage et logging de processus dans des fichier dédiés et dans plusieurs structures de données complexes.
 ## Instructions
-- Télécharger le ficher zip
+- Télécharger le ficher Download.zip dans "Releases"
 - Extraire
 - Ouvrir et ce servir uniqement du fichier nommé: "CE FICHIER - Projet 2 Félix-Olivier_Rioux"
 ## But
